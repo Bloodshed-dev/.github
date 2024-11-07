@@ -1,5 +1,4 @@
-![Logo](https://bloodshed.fr/bloodshed-logo.png)
-
+<img src="https://bloodshed.fr/bloodshed-logo.png" width="256" height="228">
 
 ## Liens
 
