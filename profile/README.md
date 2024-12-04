@@ -2,7 +2,7 @@
 
 ## Liens
 
-#### Rejoint notre discord
+#### Rejoins-nous sur Discord
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://bloodshed.fr/discord) 
 #### Notre site
